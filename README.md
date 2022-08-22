@@ -5,7 +5,7 @@
 
 
 <div align='center'>
-    <h1>Portfolio </h1>
+    <h1>Meme Generator </h1>
     <p>Random image Meme Generator. Built with React, and CSS.</p>
         <a href='https://www.linkedin.com/in/plang-psm/' target='_blank'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn tag" /></a>
 </div>
