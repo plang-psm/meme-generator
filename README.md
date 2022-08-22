@@ -35,7 +35,7 @@ The Meme Generator is a web application that pulls a random image from an API. T
 - [ ] Share button.
 
 ## Launch
-You can display the project and its code here:
+You can open the project here:
 [Meme Generator](https://plang-psm.github.io/meme-generator/)
  or
  
