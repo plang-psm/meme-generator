@@ -31,7 +31,7 @@ The Meme Generator is a web application that pulls a random image from an API. T
 
 
 ## Road Map
-- [ ] Responsive design.
+- [X] Responsive design.
 - [ ] Share button.
 
 ## Launch
